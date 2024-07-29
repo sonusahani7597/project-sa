@@ -1,2 +1,7 @@
 First line
+<<<<<<< HEAD
 Main branch line
+=======
+Feature branch line
+>>>>>>> feature-branch
+merge
