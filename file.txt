@@ -6,3 +6,4 @@ Feature branch line
 >>>>>>> feature-branch
 merge
 Change in original repository
+changes in vs code
