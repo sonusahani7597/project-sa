@@ -5,3 +5,4 @@ Main branch line
 Feature branch line
 >>>>>>> feature-branch
 merge
+Change in original repository
